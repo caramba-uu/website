@@ -1,0 +1,16 @@
++++
+publisher = "Wolters Kluwer Health, Inc. on behalf of the American Academy of Neurology"
+doi = "10.1212/NXI.0000000000200135"
+title = "CSF Concentrations of CXCL13 and sCD27 Before and After Autologous Hematopoietic Stem Cell Transplantation for Multiple Sclerosis"
+url_html = "https://nn.neurology.org/content/10/5/e200135"
+elocation-id = "e200135"
+author = "Katarina Lundblad and Christina Zjukovskaja and Anders Larsson and Honar Cherif and Kim Kultima and Joachim Burman"
+number = "5"
+volume = "10"
+date = "2023-09-07 14:56:11+02:00"
+eprint = "https://nn.neurology.org/content/10/5/e200135.full.pdf"
+year = "2023"
+journal = "Neurology - Neuroimmunology Neuroinflammation"
+abstract = "Background and Objectives In the past decade, autologous hematopoietic stem cell transplantation (AHSCT) has emerged as a treatment for relapsing-remitting multiple sclerosis (RRMS). How this procedure affects biomarkers of B- and T-cell activation is currently unknown. The objective of this study was to investigate CXCL13 and sCD27 concentrations in CSF before and after AHSCT.Methods This prospective cohort study was conducted at a specialized MS clinic in a university hospital. Patients with a diagnosis of RRMS, treated with AHSCT between January 1, 2011, and December 31, 2018, were evaluated for participation. Patients were included if CSF samples from baseline plus at least 1 follow-up were available on June 30, 2020. A control group of volunteers without neurologic disease was included as a reference. CSF concentrations of CXCL13 and sCD27 were measured with ELISA.Results The study comprised 29 women and 16 men with RRMS, aged 19textendash46 years at baseline, and 15 women and 17 men, aged 18textendash48 years, in the control group. At baseline, patients had higher CXCL13 and sCD27 concentrations than controls, with a median (IQR) of 4 (4textendash19) vs 4 (4textendash4) pg/mL (p &lt; 0.0001) for CXCL13 and 352 (118textendash530) vs 63 (63textendash63) pg/mL (p &lt; 0.0001) for sCD27. After AHSCT, the CSF concentrations of CXCL13 were considerably lower at the first follow-up at 1 year than at baseline, with a median (IQR) of 4 (4textendash4) vs 4 (4textendash19) pg/mL (p &lt; 0.0001), and then stable throughout follow-up. The CSF concentrations of sCD27 were also lower at 1 year than at baseline, with a median (IQR) of 143 (63textendash269) vs 354 (114textendash536) pg/mL (p &lt; 0.0001). Thereafter, sCD27 concentrations continued to decrease and were lower at 2 years than at 1 year, with a median (IQR) of 120 (63textendash231) vs 183 (63textendash290) pg/mL (p = 0.017).Discussion After AHSCT for RRMS, CSF concentrations of CXCL13 were rapidly normalized, whereas sCD27 decreased gradually over the course of 2 years. Thereafter, the concentrations remained stable throughout follow-up, indicating that AHSCT induced long-lasting biological changes.AHSCT=autologous hematopoietic stem cell transplantation; CDW=confirmed disability worsening; CXCL13=chemokine (C-X-C motif) ligand 13; DMDs=disease-modifying drugs; EDA=evidence of disease activity; EDSS=Expanded Disability Status Scale; LLoQ=lower limit of quantification; LoD=limit of detection; NEDA-3=no evidence of disease activity; RRMS=relapsing-remitting multiple sclerosis"
++++
+

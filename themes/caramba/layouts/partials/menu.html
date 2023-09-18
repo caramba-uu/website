@@ -1,0 +1,21 @@
+{{ $baseUrl := .Site.BaseURL }}
+  <div class="section-header" id="section-header">
+    <div class="section-header-container w-container">
+      <div class="navbar w-nav" data-animation="default" data-collapse="medium" data-contain="1" data-doc-height="1" data-duration="400" data-no-scroll="1">
+        <div class="navbar-container w-container">
+          <a class="navbar-brand w-nav-brand" href="/">
+              <img class="navbar-logo" src="/img/logos/rect205.png" height="50">
+          </a>
+          <div class="navbar-menubutton w-nav-button">
+            <div class="w-icon-nav-menu"></div>
+          </div>
+          <a class="navbar-uulogo-link" href="https://www.medsci.uu.se/caramba/" target="_blank"><img class="navbar-uulogo-img" src="/img/logos/uulogo_64x64.png"></a>
+          <nav class="navbar-menu w-nav-menu" role="navigation" style="float: right">
+              {{ range .Site.Menus.main }}
+              {{ if not (in (slice "Home" "Blog" "Poster" "Presentation") .Name) }}<a class="navbar-link w-nav-link" href="{{ .URL }}">{{ .Name }}</a>{{ end }}
+              {{ end }}
+          </nav>
+        </div>
+      </div>
+    </div>
+  </div>

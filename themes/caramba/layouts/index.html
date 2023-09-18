@@ -1,0 +1,71 @@
+{{ partial "docstart.html" . }}
+    {{ partial "header.html" . }}
+    {{ partial "menu.html" . }}
+        {{ partial "bodystart_2cols.html" . }}
+        <div class="w-container content">
+
+            <!-------------------------------------------------------------------------------->
+
+            <div class="col-2-3">
+                <div class="intro">
+                {{ range where .Data.Pages "Title" "Home" }}
+                    {{ .Content }}
+                {{ end }}
+                </div>
+                {{ range (first 7 (sort (where .Data.Pages "Type" "blog") "Date" "desc")) }}
+                <div class="card blog-item">
+                    {{ if .Params.teaser_image }}
+                    <div class="card-img">
+                        <img src="{{ .Params.teaser_image }}">
+                    </div>
+                    <div class="card-text">
+                    {{ end }}
+                        <p><a href="{{ .RelPermalink }}" class="blog-link">{{ .Title }}</a></p>
+                        <p><span class="date">{{ dateFormat "2 Jan, 2006" .Date }}</span>. {{ htmlUnescape (substr (plainify .Content) 0 240) }} ...</p>
+                        <div style="auto">
+                            <a href="{{ .RelPermalink }}" style="float: right">Read more &raquo;</a>
+                        </div>
+                    {{ if .Params.teaser_image }}
+                    </div>
+                    {{ end }}
+                    <div class="clearfix"></div>
+                </div>
+                {{ end }}
+            </div>
+
+            <!-------------------------------------------------------------------------------->
+
+            <div class="col-1-3 blog-feed">
+                {{ range where .Data.Pages "Title" "Right Column" }}
+                    {{ .Content }}
+                {{ end }}
+            </div>
+
+            <!-------------------------------------------------------------------------------->
+                <!-- START: RIGHT COLUMN -->
+
+
+                <div class="col-1-3 rightcoll">
+
+                        <h4>Latest publications</h4>
+                <div class="card blog-item">
+                        {{ range first 4 (sort (where (where .Site.Pages "Type" "publication") "Params.preprint" false) .Params.date "desc" ) }}
+                        {{ if .Params.author }}
+                                <a href="{{ .RelPermalink }}">
+                                    {{ .Title }}
+                                </a>{{ .Params.author }}. <i>{{ .Params.journal }}</i>&nbsp;{{ .Params.volume }}:{{ .Params.number }}&nbsp;({{ .Params.year }})<p/>
+                            <div class="clearfix"></div>
+                        {{ end }}
+                        {{ end }}
+                        <div style="width=100%"><a href="/publication/" style="float:right">More publications &raquo;</a></div>
+                            <div class="clearfix"></div>
+				</div>
+
+                </div>
+
+
+                <!-- END: RIGHT COLUMN -->
+        </div>
+        {{ partial "bodyend_2cols.html" . }}
+    {{ partial "footer.html" . }}
+{{ partial "docend.html" . }}

@@ -1,0 +1,22 @@
+baseurl = "http://caramba.clinic"
+languageCode = "en-us"
+title = "Caramba"
+theme = "caramba"
+SectionPagesMenu = "main"
+pluralizeListTitles = false
+[menu]
+    [[menu.main]]
+    identifier = "project"
+    name       = "Projects"
+    url        = "/project/"
+    weight     = -400
+    [[menu.main]]
+    identifier = "people"
+    name       = "People"
+    url        = "/people/"
+    weight     = -300
+    [[menu.main]]
+    identifier = "publication"
+    name       = "Publications"
+    url        = "/publication/"
+    weight     = -200
