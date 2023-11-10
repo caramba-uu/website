@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>People on Caramba</title>
-    <link>https://caramba.clinic/people/</link>
+    <link>http://caramba.clinic/people/</link>
     <description>Recent content in People on Caramba</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://caramba.clinic/people/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://caramba.clinic/people/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Akshai Parakkal Sreenivasan</title>
-      <link>https://caramba.clinic/people/akshai/</link>
+      <link>http://caramba.clinic/people/akshai/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://caramba.clinic/people/akshai/</guid>
+      <guid>http://caramba.clinic/people/akshai/</guid>
       <description></description>
     </item>
     
