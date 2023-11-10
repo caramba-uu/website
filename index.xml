@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Caramba</title>
-    <link>http://caramba.clinic/</link>
+    <link>https://caramba.clinic/</link>
     <description>Recent content on Caramba</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 07 Sep 2023 15:55:37 +0200</lastBuildDate>
     
-	<atom:link href="http://caramba.clinic/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://caramba.clinic/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Akshai Parakkal Sreenivasan</title>
-      <link>http://caramba.clinic/people/akshai/</link>
+      <link>https://caramba.clinic/people/akshai/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://caramba.clinic/people/akshai/</guid>
+      <guid>https://caramba.clinic/people/akshai/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Autologous hematopoietic stem cell transplantation significantly alters circulating ceramides in peripheral blood of relapsing-remitting multiple sclerosis patients,</title>
-      <link>http://caramba.clinic/publication/2023%5Cr-autologous-hematopoietic-stem-cell-transplantation-significantly-alters-circulating-ceramides-in-peripheral-blood-of-relapsing-remitting-multiple-sclerosis-patients%5Cr/</link>
+      <link>https://caramba.clinic/publication/2023%5Cr-autologous-hematopoietic-stem-cell-transplantation-significantly-alters-circulating-ceramides-in-peripheral-blood-of-relapsing-remitting-multiple-sclerosis-patients%5Cr/</link>
       <pubDate>Thu, 07 Sep 2023 15:55:37 +0200</pubDate>
       
-      <guid>http://caramba.clinic/publication/2023%5Cr-autologous-hematopoietic-stem-cell-transplantation-significantly-alters-circulating-ceramides-in-peripheral-blood-of-relapsing-remitting-multiple-sclerosis-patients%5Cr/</guid>
+      <guid>https://caramba.clinic/publication/2023%5Cr-autologous-hematopoietic-stem-cell-transplantation-significantly-alters-circulating-ceramides-in-peripheral-blood-of-relapsing-remitting-multiple-sclerosis-patients%5Cr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CSF Concentrations of CXCL13 and sCD27 Before and After Autologous Hematopoietic Stem Cell Transplantation for Multiple Sclerosis</title>
-      <link>http://caramba.clinic/publication/2023-csf-concentrations-of-cxcl13-and-scd27-before-and-after-autologous-hematopoietic-stem-cell-transplantation-for-multiple-sclerosis/</link>
+      <link>https://caramba.clinic/publication/2023-csf-concentrations-of-cxcl13-and-scd27-before-and-after-autologous-hematopoietic-stem-cell-transplantation-for-multiple-sclerosis/</link>
       <pubDate>Thu, 07 Sep 2023 14:56:11 +0200</pubDate>
       
-      <guid>http://caramba.clinic/publication/2023-csf-concentrations-of-cxcl13-and-scd27-before-and-after-autologous-hematopoietic-stem-cell-transplantation-for-multiple-sclerosis/</guid>
+      <guid>https://caramba.clinic/publication/2023-csf-concentrations-of-cxcl13-and-scd27-before-and-after-autologous-hematopoietic-stem-cell-transplantation-for-multiple-sclerosis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Combining molecular and cell painting image data for mechanism of action prediction</title>
-      <link>http://caramba.clinic/publication/2022-combining-molecular-cellpainting-moa-prediction/</link>
+      <link>https://caramba.clinic/publication/2022-combining-molecular-cellpainting-moa-prediction/</link>
       <pubDate>Mon, 30 Jan 2023 00:00:00 +0200</pubDate>
       
-      <guid>http://caramba.clinic/publication/2022-combining-molecular-cellpainting-moa-prediction/</guid>
+      <guid>https://caramba.clinic/publication/2022-combining-molecular-cellpainting-moa-prediction/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Predicting protein network topology clusters from chemical structure using deep learning</title>
-      <link>http://caramba.clinic/publication/2022-predicting-protein-network-topology-clusters-from-chemical-structure-using-deep-learning/</link>
+      <link>https://caramba.clinic/publication/2022-predicting-protein-network-topology-clusters-from-chemical-structure-using-deep-learning/</link>
       <pubDate>Fri, 15 Jul 2022 00:00:00 +0200</pubDate>
       
-      <guid>http://caramba.clinic/publication/2022-predicting-protein-network-topology-clusters-from-chemical-structure-using-deep-learning/</guid>
+      <guid>https://caramba.clinic/publication/2022-predicting-protein-network-topology-clusters-from-chemical-structure-using-deep-learning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Home</title>
-      <link>http://caramba.clinic/home/</link>
+      <link>https://caramba.clinic/home/</link>
       <pubDate>Fri, 20 Sep 2019 11:28:22 +0200</pubDate>
       
-      <guid>http://caramba.clinic/home/</guid>
+      <guid>https://caramba.clinic/home/</guid>
       <description> Welcome to the Caramba research group at Uppsala University
 Principal Investigator: Kim Kultima, Senior Lecturer/Associate Professor .
 Research focus: Example text </description>
@@ -69,19 +69,19 @@ Research focus: Example text </description>
     
     <item>
       <title>Education</title>
-      <link>http://caramba.clinic/education/</link>
+      <link>https://caramba.clinic/education/</link>
       <pubDate>Wed, 16 Nov 2016 20:58:38 +0100</pubDate>
       
-      <guid>http://caramba.clinic/education/</guid>
+      <guid>https://caramba.clinic/education/</guid>
       <description></description>
     </item>
     
     <item>
       <title>About</title>
-      <link>http://caramba.clinic/about/</link>
+      <link>https://caramba.clinic/about/</link>
       <pubDate>Thu, 22 Sep 2016 10:39:24 +0200</pubDate>
       
-      <guid>http://caramba.clinic/about/</guid>
+      <guid>https://caramba.clinic/about/</guid>
       <description> About us Contact details Kim Kultima
 Department of Medical Science, Clinical Chemistry
 Akademiska sjukhuset, ingång 61 751 85 Uppsala
@@ -91,10 +91,10 @@ Funding and sponsors Involvements </description>
     
     <item>
       <title>Right Column</title>
-      <link>http://caramba.clinic/rightcol-front/</link>
+      <link>https://caramba.clinic/rightcol-front/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://caramba.clinic/rightcol-front/</guid>
+      <guid>https://caramba.clinic/rightcol-front/</guid>
       <description>Caramba Links &amp;raquo; Caramba at Uppsala University Website
 &amp;raquo; Caramba on GitHub
  </description>
