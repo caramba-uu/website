@@ -1,4 +1,4 @@
-baseurl = "https://caramba.clinic"
+baseurl = "http://caramba.clinic"
 languageCode = "en-us"
 title = "Caramba"
 theme = "caramba"
