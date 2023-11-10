@@ -12,7 +12,7 @@ year = ""
 keywords = ""
 document_bibtex_type = ""
 abstract = ""
-# --- Pharmb.io custom fields ---
+# --- custom fields ---
 short_summary = ""
 users = ["olas"]
 projects = [""]
