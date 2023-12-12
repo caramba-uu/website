@@ -25,15 +25,15 @@ When making changes please follow these steps:
  2. Create a new branch with your name and what you are changing `name/topic-of-change`
  
     ```bash
-    git checkout -b kalle/update-my-profile
+    git checkout -b name/update-my-profile
     ```
  3. Make your edits
  4. Push your edits to a new branch *in this repo* (Important! otherwise it will not work)
  
     ```bash
-    git push -u origin kalle/update-my-profile
+    git push -u origin name/update-my-profile
     ```
- 5. Create a Pull Request (PR) on GitHub and select `base:master <- compare:kalle/update-my-profile`
+ 5. Create a Pull Request (PR) on GitHub and select `base:master <- compare:name/update-my-profile`
  6. Check that the PR build status is passed (green)
     If not, go to step 3 and repeat
  7. Ask for it to be merged
