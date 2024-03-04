@@ -13,7 +13,7 @@ menu:
   This course is only given in Swedish.
   Kursen ges på halvfart (50 %) med blandat distans- och campusundervisning. Kursen ges både som fristående kurs och inom masterprogrammet i biomedicinsk laboratorievetenskap. Under kursen kommer du att få en bred kunskap inom masspektrometriska tekniker med tillämpningar inom hälso- och sjukvården. Under kursen kommer masspektrometri, separationstekniker som vätskekromatografi, provupparbetning, metodkonstruktion, validering samt kvalitetssäkring att behandlas. Du kommer också att få utföra masspektrometriska analyser med klinisk tillämpning.
 
-<img  style="display:block; margin-left: auto; margin-right: auto; height: 300px;" src="/img/education_images/Kliniskmasspektrometri.jpg">
+<img  style="display:block; margin-left: auto; margin-right: auto; height: 300px;" src="/img/education_images/kliniskmasspektrometri.jpg">
 
 
 - [Global and Environmental Aspects on Neurohealth, 7.5 ECTS](https://www.uu.se/en/study/course?query=3NR018)<br>
