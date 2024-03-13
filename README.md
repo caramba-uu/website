@@ -31,6 +31,8 @@ When making changes please follow these steps:
  4. Push your edits to a new branch *in this repo* (Important! otherwise it will not work)
  
     ```bash
+    git add content/people/profile_name.md
+    git commit -m "profile update"
     git push -u origin name/update-my-profile
     ```
  5. Create a Pull Request (PR) on GitHub and select `base:master <- compare:name/update-my-profile`
