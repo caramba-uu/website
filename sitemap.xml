@@ -503,7 +503,16 @@
   </url>
   
   <url>
+    <loc>http://caramba.clinic/project/ai-confidence-drugdiscovery/</loc>
+  </url>
+  
+  <url>
     <loc>http://caramba.clinic/people/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://caramba.clinic/project/</loc>
     <priority>0</priority>
   </url>
   
