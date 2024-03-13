@@ -1,5 +1,5 @@
 +++ 
-email = "ida.erngren@uu.se"
+email = "ida.erngren@uu.se"
 firstname = "Ida"
 initials = "" 
 job_title = "Postdoc"
