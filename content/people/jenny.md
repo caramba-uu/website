@@ -20,6 +20,6 @@ url_uuprofile = "https://www.katalog.uu.se/empinfo/?id=N20-1522"
 linkedin = "https://www.linkedin.com/in/jenny-jakobsson-b511161b8/" 
 url_mendeley = "" 
 url_researchgate = "" 
-weight = 1 
+weight = 70
 start_year = 2021
 +++
