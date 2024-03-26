@@ -11,7 +11,7 @@ research_interests = ["Bioinformatics", "Metabolomics", "Lipidomics",
 "Chronic pain","Fibromyalgia"]
 short_bio = "" 
 long_bio = "PhD student with focus on bioinformatics. The project is focused on the chronic pain, mainly fibromyalgia, and the role of the 
-metabolome and altered metabolism. The main supervisor is Kim Kultima and co-supervisors are Eva Kosek and Henrik Carlsson.
+metabolome and altered metabolism. The main supervisor is Kim Kultima and co-supervisors are Eva Kosek and Henrik Carlsson."
 title = "Jenny E. Jakobsson" 
 twitter = "@jenny_j2021" 
 url_blog = ""
