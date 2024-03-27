@@ -5,7 +5,7 @@ initials = "JJ"
 job_title = "PhD student"
 lastname = "Jakobsson" 
 nickname = "" 
-orcid = "https://orcid.org/0000-0003-0470-5940"
+orcid = "0000-0003-0470-5940"
 photo_file = "people/jenny.jpg" 
 research_interests = ["Bioinformatics", "Metabolomics", "Lipidomics", 
 "Chronic pain","Fibromyalgia"]
