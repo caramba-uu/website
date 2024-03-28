@@ -27,7 +27,9 @@ When making changes please follow these steps:
     ```bash
     git checkout -b name/update-my-profile
     ```
- 3. Make your edits
+ 3. Make your edits  
+    Add and edit the MD file in "content/people"  
+    Add a profile picture in "static/img/people"  
  4. Push your edits to a new branch *in this repo* (Important! otherwise it will not work)
  
     ```bash
@@ -41,9 +43,8 @@ When making changes please follow these steps:
  7. Ask for it to be merged
  8. Done!
 
-Note that you are supposed to work with this repository only. Don't fork the
-repo.
+Note that you are supposed to work with this repository only. Don't fork the repo.
 
 ## Notes
 
-Github Actions is used to generate the HTML pages by HUGO from this web template, and by Github actions also pushed to the branch gh_pages. The HTML pages in branch gh_pages are served by Github on domain caramba.clinic (configured in settings of this repo)
+Github Actions is used to generate the HTML pages by HUGO from this web template, and Github Actions pushes the HTML to the branch gh_pages. The HTML pages in branch gh_pages are served by Github on the domain caramba.clinic (configured in the settings of this repo)
