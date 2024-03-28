@@ -27,9 +27,9 @@ When making changes please follow these steps:
     ```bash
     git checkout -b name/update-my-profile
     ```
- 3. Make your edits
-    Add and edit the MD file in "content/people"
-    Add a profile picture in "static/img/people"
+ 3. Make your edits  
+    Add and edit the MD file in "content/people"  
+    Add a profile picture in "static/img/people"  
  4. Push your edits to a new branch *in this repo* (Important! otherwise it will not work)
  
     ```bash
