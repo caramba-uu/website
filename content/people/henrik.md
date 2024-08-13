@@ -19,6 +19,6 @@ url_uuprofile = "https://www.uu.se/en/contact-and-organisation/staff?query=N19-1
 linkedin = "" 
 url_mendeley = "" 
 url_researchgate = "https://www.researchgate.net/profile/Henrik-Carlsson" 
-weight = 1 
+weight = -99
 start_year = 2019
 +++
