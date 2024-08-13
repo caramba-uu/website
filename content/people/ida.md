@@ -19,7 +19,7 @@ url_uuprofile = "https://www.katalog.uu.se/empinfo/?id=N14-268"
 linkedin = ""
 url_mendeley = "" 
 url_researchgate = "https://www.researchgate.net/profile/Ida-Erngren/publications?sorting=recentlyAdded&editMode=1"
-weight =  -98
+weight =  -97
 start_year = 2022
 +++
 
